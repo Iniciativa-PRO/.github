@@ -1,4 +1,4 @@
-## Inicio
+## Inicio de tudo
 - [O que é a iniciativa PRO?](#o-que-é-a-iniciativa-pro)
 - [Qual o objetivo?](#-qual-o-objetivo)
 - [Quais projetos](#-quais-projetos)
