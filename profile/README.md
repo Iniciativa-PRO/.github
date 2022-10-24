@@ -20,3 +20,41 @@ Redução de tempo no desenvolvimento de projetos
  - Ganho de experiência
  - Networking
 
+# Etapas para participar de um projeto
+## Encontrando um projeto
+
+Para participar de um projeto existente basta ir em “Ideias de projeto”, dar uma curtida na role que deseja como Front-end ou back-end e interagir no tópico caso queira entender mais sobre o projeto.
+[imagem]
+
+Observação: O projeto ficará disponível para ingressantes em uma janela de tempo.
+
+## Formação de equipe
+Após a curtida na mensagem, caso haja muitos interessados em um mesmo projeto será necessário dividir em equipes menores (é sugerido até 5 membros).
+ 
+Em projetos robustos como um ERP modesto ou um ecommerce cada equipe poderá ficar responsável por determinada funcionalidade.
+
+## Contato dos organizadores
+No término da janela de ingresso um organizador (Shô, Ygor, Donny, Crysthian ou Lucio) entrará em contato com os interessados para juntar à equipe, ajudar na organização das tarefas orientar sobre metodologias ágeis. 
+
+## Desenvolvimento
+Cada projeto possui suas particularidades de desenvolvimento por isso não serão abordadas as etapas de desenvolvimento neste documento.
+
+## Finalização
+Assim que os objetivos dos projetos forem atingidos o canal de texto da equipe será desfeita, o projeto será documentado e servirá de referência para futuros integrantes do Alumni ONE como inspiração.
+
+## Como serão desenvolvidos os projetos?
+Cada projeto possui suas particularidades, é sugerido o uso de metodologias como Agile e ferramentas como Trello, Notion e Miro para organização. É importante o uso de ferramentas para o acompanhamento do projeto. 
+Sugestão de criar MVP para soluções, priorizando determinadas funcionalidades.
+
+## Tecnologias
+As tecnologias utilizadas no projeto são definidas nos tópicos e ocorre antes do início das atividades e junção das equipes.
+
+## Junção de equipes
+Projetos que possuem objetivos similares podem ser mesclados caso haja interesse de todos da equipe.
+
+## Colaboradores Inicias:
+ - Ygor
+ - Donny-Hans
+ - Adriano Lucio
+ - Lucas ( Shô )
+ - Chrysthian 
